@@ -1,0 +1,6 @@
+yt_dlp
+subprocess
+requests
+os
+sys
+time
